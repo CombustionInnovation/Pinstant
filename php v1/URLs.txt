@@ -1,0 +1,28 @@
+add comments
+http://combustioninnovation.com/luis/pinstant/php/addComments.php?comment=asdas
+
+get comments
+http://combustioninnovation.com/luis/pinstant/php/getComments.php
+
+
+add pins
+http://combustioninnovation.com/luis/pinstant/php/addPins.php?lat=1641&lng=5246
+
+get comments by Lat and lng
+http://combustioninnovation.com/luis/pinstant/php/getCommentByLatAndLng.php?lat=32&lng=32
+
+
+add Point
+http://combustioninnovation.com/luis/pinstant/php/addPoint.php?commentid=18
+
+
+deduct Point
+http://combustioninnovation.com/luis/pinstant/php/deductPoint.php?commentid=18
+
+
+get comment by id with time difference
+http://combustioninnovation.com/luis/pinstant/php/timeDifference.php?commentid=18
+
+
+get pins by radious of current location
+http://combustioninnovation.com/luis/pinstant/php/getPinsByDistance.php?rad=10&lat=40.8567662&lng=-74.1284764
